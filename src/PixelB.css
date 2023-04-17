@@ -1,0 +1,10 @@
+.pixelB{
+    background-color: #f0f40a;
+    border: 1px solid #000000;
+    width: 20px;
+    height: 25px;
+    display: inline-block;
+    margin: 0px;
+    padding: 0px;
+    cursor: pointer;
+}
