@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/lcdisplay/static/css/main.073c9b0a.css",
+    "main.js": "/lcdisplay/static/js/main.c8dd496b.js",
+    "static/js/787.2670f2c4.chunk.js": "/lcdisplay/static/js/787.2670f2c4.chunk.js",
+    "static/media/logo.svg": "/lcdisplay/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/lcdisplay/index.html",
+    "main.073c9b0a.css.map": "/lcdisplay/static/css/main.073c9b0a.css.map",
+    "main.c8dd496b.js.map": "/lcdisplay/static/js/main.c8dd496b.js.map",
+    "787.2670f2c4.chunk.js.map": "/lcdisplay/static/js/787.2670f2c4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.c8dd496b.js"
+  ]
+}
