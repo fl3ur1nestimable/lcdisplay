@@ -23,7 +23,7 @@ class Form extends React.Component{
     render(){
         return(
             <div className="form">
-                <input type="text" maxLength={6} value={this.state.text} onChange={this.handleChange} placeholder="Enter what you want to display"></input>
+                <input type="text" maxLength={11} value={this.state.text} onChange={this.handleChange} placeholder="Enter what you want to display"></input>
                 <button onClick={this.handleSetText}>Display !</button>
             </div>
         );
